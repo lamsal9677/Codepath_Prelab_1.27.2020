@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SanskarCP</string>
+    <string name="change_color">Change Color</string>
+    <string name="touch_me">Touch me</string>
+    <string name="change_text">Change Text</string>
+    <string name="reset">RESET</string>
+    <string name="enter_text">Enter text</string>
+</resources>
